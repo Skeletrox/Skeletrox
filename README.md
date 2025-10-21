@@ -51,8 +51,6 @@ My work spans **low-level optimization**, **parallel processing**, and **scalabl
 ## 📊 GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skeletrox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=prs_merged,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeletrox&layout=compact&theme=tokyonight&hide_border=true)  
-![Metrics](https://metrics.lecoq.io/skeletrox?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&config.timezone=America%2FLos_Angeles)
-
 
 ---
 
