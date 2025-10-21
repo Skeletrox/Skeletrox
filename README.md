@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Skeletrox/Skeletrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 
 **Software Engineer** | **Systems Programming** • **DB Internals** • **Distributed Systems**
 
-I build reliable, efficient systems that push the limits of performance and scalability.  
+I build reliable, efficient, distributed systems that are smart and self-healing.
 My background is in **database internals**, **distributed machine learning** and **C++ systems engineering**, and I'm currently exploring distributed systems and storage in Rust to get adept with both these things.
 
 
@@ -30,20 +29,20 @@ My background is in **database internals**, **distributed machine learning** and
 
 ## 💼 Professional Experience
 I’ve worked on **core database internals** for **AWS Redshift**, focusing on **query execution**, **storage engines**, and **high-performance C++ systems**.  
-My work spans **low-level optimization**, **parallel processing**, and **scalable infrastructure** — where correctness and performance both matter.
+Prior to this, I worked at [aikaan.io](https://www.aikaan.io/about-us/) where I built their **machine learning** component for **AiCon**, deploying **neural nets** on Raspberry Pis for **distributed machine learning**.  
+My work spans **low-level optimization**, **parallel processing**, and **scalable infrastructure**.  
 
 ---
 
 ## 🧰 Tech Stack
 **Languages:** Rust • C++ • Python  
-**Tools:** Docker • Linux
-
-**Focus:** Distributed Systems • Performance • Observability  
+**Tools:** Docker • Linux  
+**Focus:** Distributed Systems • Performance • Observability • Resilience
 
 ---
 
 ## 🌌 Beyond Code
-📚 Cyberpunk and sci-fi worlds  
+📚 Cyberpunk, philosophy and sci-fi worlds  
 🎮 Video Games
 🏃‍♂️ Running a 5K a week
 
