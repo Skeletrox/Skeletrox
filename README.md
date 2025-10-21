@@ -26,7 +26,7 @@ My background is in **database internals**, **distributed machine learning** and
 
 ## ⚙️ Current Work
 - 🦀 Building a **distributed key-value store in Rust**
-- 🚀 Growing as a **technical leader** and **system designer**
+- 🚀 Working on making Redshift faster, smarter, and more resilient.
 
 ## 💼 Professional Experience
 I’ve worked on **core database internals** for **AWS Redshift**, focusing on **query execution**, **storage engines**, and **high-performance C++ systems**.  
@@ -37,6 +37,7 @@ My work spans **low-level optimization**, **parallel processing**, and **scalabl
 ## 🧰 Tech Stack
 **Languages:** Rust • C++ • Python  
 **Tools:** Docker • Linux
+
 **Focus:** Distributed Systems • Performance • Observability  
 
 ---
