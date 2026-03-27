@@ -13,19 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Sriram Venkatachalam Ramaswamy
+# Sriram Venkatachalam Ramaswamy
 
 **Software Engineer** | **Systems Programming** • **DB Internals** • **Distributed Systems**
 
-I build reliable, efficient, distributed systems that are smart and self-healing.
-My background is in **database internals**, **distributed machine learning** and **C++ systems engineering**, and I'm currently exploring distributed systems and storage in Rust to get adept with both these things.
-
+SDE II, Database Internals, AWS Redshift. A fan of autonomous, large-scale and self-healing systems.
 
 ---
 
-## ⚙️ Current Work
-- 🦀 Building a **distributed key-value store in Rust**
-- 🚀 Working on making Redshift faster, smarter, and more resilient.
+## Current Work
+- Building a data mesh as a personal project (while getting familiar with reigning in AI)
+- Automating anything I can automate
 
 ## 💼 Professional Experience
 I’ve worked on **core database internals** for **AWS Redshift**, focusing on **query execution**, **storage engines**, and **high-performance C++ systems**.  
@@ -34,25 +32,25 @@ My work spans **low-level optimization**, **parallel processing**, and **scalabl
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Rust • C++ • Python  
-**Tools:** Docker • Linux  
-**Focus:** Distributed Systems • Performance • Observability • Resilience
+## Tech Stack
+**Languages:** Rust | C++ | Python
+**Focus:** Distributed Systems | Automation | Observability | Resilience
 
 ---
 
-## 🌌 Beyond Code
-📚 Cyberpunk, philosophy and sci-fi worlds  
-🎮 Video Games  
-🏃‍♂️ Running a 5K a week
+## Beyond Code
+- Cyberpunk, philosophy and sci-fi worlds  
+- Video Games
+- Running a 5K a week
+- My piano keyboard
+
+## Listen
+
+- My work playlist (best shuffled): https://www.youtube.com/playlist?list=PLpHQUwdNfcbkF1saxG085yPBcfScUWwft
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skeletrox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=prs_merged,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeletrox&layout=compact&theme=tokyonight&hide_border=true)  
 
----
-
-> “To achieve victory, we must master ourselves before mastering our enemies.”  
-> — *Grand Admiral Thrawn*
