@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Sriram Venkatachalam Ramaswamy
 
-**Software Engineer** | **Systems Programming** • **DB Internals** • **Distributed Systems**
+**Software Engineer** | **Systems Programming** | **DB Internals** | **Distributed Systems**
 
 SDE II, Database Internals, AWS Redshift. A fan of autonomous, large-scale and self-healing systems.
 
@@ -34,6 +34,7 @@ My work spans **low-level optimization**, **parallel processing**, and **scalabl
 
 ## Tech Stack
 **Languages:** Rust | C++ | Python
+
 **Focus:** Distributed Systems | Automation | Observability | Resilience
 
 ---
@@ -52,5 +53,6 @@ My work spans **low-level optimization**, **parallel processing**, and **scalabl
 
 ## GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skeletrox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=prs_merged,issues)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeletrox&layout=compact&theme=tokyonight&hide_border=true)  
 
